@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDeepClone.Core", "DeepClone.Core\AutoDeepClone.Core.csproj", "{4D5BEB89-BE85-4C47-B0DF-A3449F6CC769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDeepClone.Tests", "AutoDeepClone.Tests\AutoDeepClone.Tests.csproj", "{8F1306C9-79B5-4155-821D-98CC8CD73533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5BEB89-BE85-4C47-B0DF-A3449F6CC769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5BEB89-BE85-4C47-B0DF-A3449F6CC769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5BEB89-BE85-4C47-B0DF-A3449F6CC769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5BEB89-BE85-4C47-B0DF-A3449F6CC769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1306C9-79B5-4155-821D-98CC8CD73533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1306C9-79B5-4155-821D-98CC8CD73533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1306C9-79B5-4155-821D-98CC8CD73533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1306C9-79B5-4155-821D-98CC8CD73533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D653220-80FE-4CE8-98E8-10AFCA82AA77}
+	EndGlobalSection
+EndGlobal
