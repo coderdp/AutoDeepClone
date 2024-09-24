@@ -1,6 +1,6 @@
 ﻿namespace AutoDeepClone.Tests;
 
-public class Main
+public class MainTest
 {
     private BaseEntity InitBaseEntity(int? id = 1)
     {
